@@ -1,0 +1,1 @@
+docker run -ti -d --name react-tdd-sample -p 5001:5001 -v `pwd`:/work/ -w "/work/${SAMPLE_DIR}" node:latest npm start
