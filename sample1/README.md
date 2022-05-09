@@ -1,5 +1,16 @@
 参照サイト：https://itnext.io/test-driven-development-tdd-with-react-testing-library-mock-service-worker-b23c9fedf6fa
 
+0. テスト実行：`docker exec -ti react-tdd-sample npm test`
+
+1. Recipes.spec.jsを作成
+2. Recipes.jsを作成
+
+3. Mock Server Workerを使う：https://mswjs.io/
+
+
+
+---
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
